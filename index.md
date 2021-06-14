@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EdwardsVinicius/MPS-Agenda/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Equipe
+### Conheça nossa equipe
 
 ![vinicius](MPS-Agenda/img/equipe/VINICIUS%20EDWARDS.jpg)
