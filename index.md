@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Equipe
 
-![Vinicius](MPS-Agenda/img/equipe/VINICIUS%20EDWARDS.jpg)
+<img src="MPS-Agenda/img/equipe/VINICIUS%20EDWARDS.jpg" alt="vinicius" width="200"/>)
