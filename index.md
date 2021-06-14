@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Conheça nossa equipe
 
-![vinicius](MPS-Agenda/img/equipe/VINICIUS%20EDWARDS.jpg)
+![vinicius](MPS-Agenda/lading-page/img/equipe/VINICIUS%20EDWARDS.jpg)
