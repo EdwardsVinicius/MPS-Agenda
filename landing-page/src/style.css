@@ -112,6 +112,7 @@ nav button {
 .contentName h1, p {
     margin-bottom: 25px;
     line-height: 25px;
+    color: #000;
 }
 
 .contentName h1 {
