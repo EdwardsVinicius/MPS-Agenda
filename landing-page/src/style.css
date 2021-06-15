@@ -87,7 +87,7 @@ nav button {
     font-weight: bold;
     font-size: 19px;
     cursor: pointer;
-    background-color: rgb(208,63,50);
+    background-color: rgb(82, 113, 255);
     color: #fff;
     margin-bottom: 25px;
     margin-right: 5px;
@@ -154,7 +154,7 @@ nav button {
 
 .midContainer {
     width: 100%;
-    background-color: rgb(208,63,50);
+    background-color: rgb(82, 113, 255);
     height: 90vh;
     display: flex;
     flex-direction: column;
@@ -225,11 +225,11 @@ nav button {
 }
 
 .fa-angle-double-down {
-    color: rgb(208,63,50);
+    color: rgb(82, 113, 255);
 }
 
 .fa-angle-double-up {
-    color: rgb(208,63,50);
+    color: rgb(82, 113, 255);
 }
 
 .fa-white {
