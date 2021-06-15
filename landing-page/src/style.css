@@ -26,11 +26,15 @@ nav button {
     background-color: #fff;
 }
 
-.header {
+/* .header {
+    width: 20vw;
     display: flex;
     
     justify-content:flex-start;
     align-items: center;
+} */
+header {
+    display: block;
 }
 
 
