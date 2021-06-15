@@ -152,7 +152,7 @@ nav button {
 
 }
 
-.secondContainer {
+.midContainer {
     width: 100%;
     background-color: rgb(208,63,50);
     height: 90vh;
@@ -170,7 +170,7 @@ nav button {
     
 }
 
-.secondContainer h1 {
+.midContainer h1 {
     color: #fff;
 }
 
@@ -198,7 +198,7 @@ nav button {
     
 }
 
-.thirdContainer {
+.teamContainer {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -236,12 +236,12 @@ nav button {
     color: #fff;
 }
 
-.secondContainer a {
+.midContainer a {
     padding-top: 100px;
     margin-bottom: -60px;
 }
 
-.thirdContainer a{
+.teamContainer a{
     padding-top: 100px;
     margin-bottom: -80px;
 }
@@ -255,18 +255,18 @@ nav button {
         flex-direction: column;
     }
 
-    .contentRight{
+    .contentName{
         width: 100%;
         padding: 10px;
         text-align: center;
     }
 
-    .contentLeft{
+    .contentLogo{
         height: auto;
         width: 100%;
         padding: 20px;
     }
-    .contentLeft img{
+    .contentLogo img{
         width: 100%; 
     }
 
@@ -295,7 +295,7 @@ nav button {
         
     }
 
-    .secondContainer{
+    .midContainer{
         width: 100%;
         height: 1000px;
 
@@ -311,7 +311,7 @@ nav button {
         flex-direction: column;
     }
 
-    .thirdContainer {
+    .teamContainer {
         width: 100%;
         height: 1800px;
     }
