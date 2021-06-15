@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    font-family: 'Helvetica', sans-serif;
+    font-family: Helvetica;
 }
 
 nav {
@@ -24,6 +24,13 @@ nav strong {
 
 nav button {
     background-color: #fff;
+}
+
+.header {
+    display: flex;
+    
+    justify-content:flex-start;
+    align-items: center;
 }
 
 
@@ -163,7 +170,7 @@ nav button {
 }
 
 .cards {
-    display: flex;
+    display:inline-flex;
     
     justify-content:center;
     align-items: center;
