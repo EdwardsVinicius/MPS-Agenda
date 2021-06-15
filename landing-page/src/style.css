@@ -45,7 +45,7 @@ nav button {
 
 
 .contentLogo {
-    width: 50vw;
+    width: 50%;
     padding-left:50px;
     align-items: center;
     
@@ -53,8 +53,6 @@ nav button {
 
 .contentLogo img {
     width: 50%;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 
