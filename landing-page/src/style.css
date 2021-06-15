@@ -80,13 +80,20 @@ float: right;
 
 
 
-.contentLogo {
+/* .contentLogo {
 
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     
+} */
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .contentLogo img {
@@ -149,7 +156,7 @@ float: right;
 
     border-radius: 5px;
     background-color: rgba(0, 0, 0, 0.582);
-    width: 70px;
+    width: 50px;
     height: 50px;
     padding: 0;
     
