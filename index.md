@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+![logo](assets/logo.png)
 
-You can use the [editor on GitHub](https://github.com/EdwardsVinicius/MPS-Agenda/edit/landing-page/index.md) to maintain and preview the content for your website in Markdown files.
+# SUA AGENDA DE COMPROMISSOS NA PALMA DA MÃO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O **DigiAgenda** é a sua agenda de compromissos onde você pode agendar seus eventos, criar lembretes, configurar alarmes e convidar seus amigos ou colegas de trabalho.
 
-### Markdown
+## Planeje seus dias
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O DigiAgenda ajuda você a organizar suas tarefas gerenciar seu tempo.
 
-```markdown
-Syntax highlighted code block
+## Veja sua programação
+Veja sua programação e os eventos que está participando, não perca mais nada.
 
-# Header 1
-## Header 2
-### Header 3
+### Equipe
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EdwardsVinicius/MPS-Agenda/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![gabriel](assets/img/equipe/gabriel.jpeg) ![roberto](assets/img/equipe/roberto.jpeg) ![victor](assets/img/equipe/victor.jpeg) ![vinicius](assets/img/equipe/vinicius.jpeg)
