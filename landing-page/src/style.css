@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Helvetica', sans-serif;
 }
 
 nav {
@@ -37,24 +37,26 @@ nav button {
     animation-name: contentAnimation;
 }
 
-.contentRight {
+.contentName {
     width: 50vw;
+    text-align: center;
 }
 
 
 
-.contentLeft {
+.contentLogo {
     width: 50vw;
     padding-left:50px;
+    align-items: center;
     
 }
 
-.contentLeft img {
+.contentLogo img {
     width: 80%;
 }
 
 
-.contentRight {
+.contentName {
     padding-right: 100px;
     padding-left: 10px;
   
@@ -62,26 +64,26 @@ nav button {
 
 
 
-.contentRight h1, p {
+.contentName h1, p {
     margin-bottom: 25px;
     line-height: 25px;
 }
 
-.contentRight h1 {
+.contentName h1 {
     line-height: 43px;
     font-size: 36px;
 
 }
 
-.strongRed {
-    color: rgb(208,63,50);
+.boldText {
+    color: rgb(82, 113, 255);
 }
 
 
 
 
 .btn {
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-weight: bold;
     font-size: 19px;
     cursor: pointer;
